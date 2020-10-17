@@ -3,6 +3,7 @@
 from __future__ import print_function
 
 """Bluetooth Low Energy Python interface"""
+# mod for connection fast timeout when no devices nearby
 import sys
 import os
 import time
